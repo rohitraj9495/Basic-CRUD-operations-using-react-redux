@@ -1,0 +1,18 @@
+$theme-colors: (
+  "primary": #7a086bc5,
+  "danger": #bb0606,
+  "warning":#fc0366,
+  "success": #03fc13,
+  "default": #4009b5,
+  "secondary": #cec216
+);
+
+
+
+
+// Bootstrap and its default variables
+@import "node_modules/bootstrap/scss/bootstrap";
+
+body{
+  padding: 5rem;
+}
